@@ -1,3 +1,5 @@
+# Memory Classification
+
 Understanding the relationship between memories and storytelling holds profound significance as storytelling serves as a mechanism for humans to share experiences shaping our culture and communication. Imagination, recollection, and retelling rely on different cognitive and memory processes, thereby suggesting that this distinction might also be reflected in the language employed during the process of storytelling.
 In this study, we explored the intricate interplay between memory processes and storytelling by contrasting narratives derived from imagined, recalled, and retold stories using "Hippocorpus", a comprehensive dataset of 6,854 English diary-like short stories (Sap et al., 2022), and by leveraging the capabilities of the most recent Natural Language Processing (NLP) techniques and Deep Learning algorithms.
 Firstly, as a baseline in our project, we implemented a simpler Machine Learning approach using a Logistic Regression fed with a bag-of-words (bow) and term frequency- inverse document frequency (tf-idf) representation of our textual data, achieving 53% accuracy. 
